@@ -1,0 +1,37 @@
+[
+  {
+    "name": "foo",
+    "amount": 1,
+    "cells": 0.96,
+    "runningTotal": 0.96,
+    "index": 0
+  },
+  {
+    "name": "bar",
+    "amount": 2,
+    "cells": 1.91,
+    "runningTotal": 2.87,
+    "index": 1
+  },
+  {
+    "name": "vey",
+    "amount": 4,
+    "cells": 3.82,
+    "runningTotal": 6.69,
+    "index": 2
+  },
+  {
+    "name": "con",
+    "amount": 10,
+    "cells": 9.55,
+    "runningTotal": 16.24,
+    "index": 3
+  },
+  {
+    "name": "delta",
+    "amount": 50,
+    "cells": 47.76,
+    "runningTotal": 64,
+    "index": 4
+  }
+]
